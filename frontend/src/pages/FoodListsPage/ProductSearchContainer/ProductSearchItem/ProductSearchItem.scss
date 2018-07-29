@@ -1,0 +1,24 @@
+.ProductSearchItem-buttons {
+  position: absolute;
+  bottom: 0;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  left: 0;
+  align-items: center;
+
+  .ProductSearchItem-buttonGroup {
+    width: 50%;
+  }
+}
+
+.ProductSearchItem-info {
+  height: 150px;
+}
+
+.ProductSearchContainer-productImage {
+  display: flex !important;
+  justify-content: center;
+  min-height: 90px;
+}
